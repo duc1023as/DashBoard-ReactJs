@@ -4,6 +4,7 @@ import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, Responsi
 
 export default function Chart({title,data,dataKey,grid}) {
     // test in github
+    // test branch
     return (
     <div className="chart">
         <h3 className="charTitile">{title}</h3>
