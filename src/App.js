@@ -11,6 +11,7 @@ import Product from "./pages/product/Product";
 import NewProduct from "./pages/newProduct/NewProduct";
 
 function App() {
+  // The second commit
   return (
     <BrowserRouter>      
       <Topbar/>
