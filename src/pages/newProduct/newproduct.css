@@ -1,0 +1,27 @@
+.newProduct{
+    flex: 4;
+    padding: 20px;
+}
+.newProductForm{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+.newProductForm>label{
+    margin:10px 0px;
+}
+.newProductForm>input{
+    width: 400px;
+}
+#active{
+    width: 100px;
+}
+.newProductButton{
+    padding: 6px;
+    width: 100px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: aquamarine;
+    color:black;
+}
