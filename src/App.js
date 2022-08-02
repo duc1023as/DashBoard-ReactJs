@@ -12,6 +12,7 @@ import NewProduct from "./pages/newProduct/NewProduct";
 
 function App() {
   // The second commit
+  // Test with VSC
   return (
     <BrowserRouter>      
       <Topbar/>
